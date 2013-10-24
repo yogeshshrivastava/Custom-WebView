@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Custom WebView</string>
+    <string name="action_settings">Settings</string>
+    <string name="load">Load</string>
+    <string name="url_hint">Type URL</string>
+    <string name="action_show_url_button">Show URL</string>
+    
+</resources>
